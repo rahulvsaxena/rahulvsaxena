@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rahul Saxena
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in exploring things
 - 📫 How to reach me rahulvsaxena@gmail.com
 
 <!---
