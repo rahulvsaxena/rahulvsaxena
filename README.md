@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Saxena
-- 👀 I’m interested in exploring things
+- 👀 I’m interested in programming things
 - 📫 How to reach me rahulvsaxena@gmail.com
 
 <!---
